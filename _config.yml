@@ -51,7 +51,7 @@ categories-order:
 navigation:
   - {file: "people.md"}
   - {file: "participate.md"}
-  - {url: "https://www.chla.org/research/levitt-laboratory" title: "Levitt Lab" target="_blank"}
+  - {title: "Levitt Lab" url: "https://www.chla.org/research/levitt-laboratory" target="_blank"}
   - {file: "CHLAresearch.md"}
   - {file: "faqs.md"}
 
