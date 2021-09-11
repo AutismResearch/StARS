@@ -5,7 +5,7 @@ layout: page
 ---
 
 
-We're a small team of researchers in the [Department of Linguistics](http://www.ling.upenn.edu/) at the University of Pennsylvania.  We're proud members of [mindCORE](https://mindcore.sas.upenn.edu/) (Penn's hub for the integrative study of the mind), the [Penn Child Development Labs](http://web.sas.upenn.edu/pennchilddevelopmentlabs/), and the [Social and Cultural Evolution Working Group](https://www.sas.upenn.edu/scew/members.html) at Penn.
+We are researchers in the [Levitt Lab](https://www.chla.org/research/levitt-laboratory) at the Children's Hospital Los Angeles.  
 
 <ul class="list-unstyled list-inline text-center">
 
@@ -28,8 +28,4 @@ We're a small team of researchers in the [Department of Linguistics](http://www.
 
 ## Join our team
 
-**Postdocs**: Interested postdocs should email Katie and apply to the [Integrative Language Science and Technology (ILST) postdoc](https://web.sas.upenn.edu/langscience/2018/09/20/postdoctoral-positions-available/) or the [mindCORE Postdoctoral Research Fellowship](https://mindcore.sas.upenn.edu/post-doctoral-research-fellowship/).
-
-**Graduate students**: Prospective graduate students should email Katie and apply to the [Linguistics program at the University of Pennsylvania](http://www.ling.upenn.edu/graduate/).  Applications are due in early December.
-
-**Undergraduates**: Penn students interested in working in the lab during the Academic year should email Katie to express interest. We are not accepting new students in Spring or Summer 2021. Check back in Fall 2021 for openings. 
+**Undergraduates**: USC undergraduate students interested in working in the lab can email Sahana. We are not accepting new students in Fall 2021. Check back in Spring 2022 for openings. 
