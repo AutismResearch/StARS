@@ -49,6 +49,7 @@ categories-order:
  - News
   
 navigation:
+  - {file: "stars.md"}
   - {file: "people.md"}
   - {file: "participate.md"}
   - {title: "Levitt Lab" url: "https://www.chla.org/research/levitt-laboratory" target="_blank"}
