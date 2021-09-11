@@ -49,11 +49,10 @@ categories-order:
  - News
 
 navigation:
+  - {file: "participate.md"}
   - {file: "people.md"}
   - {file: "research.md"}
-  - {file: "participate.md"}
   - {file: "resources.md"}
-
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:childlanglab@sas.upenn.edu"}
