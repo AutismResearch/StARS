@@ -2,10 +2,7 @@
 title: "People"
 permalink: "/people/"
 layout: page
----
-
-
-We are researchers in the [Levitt Lab](https://www.chla.org/research/levitt-laboratory) at the Children's Hospital Los Angeles.  
+--- 
 
 <ul class="list-unstyled list-inline text-center">
         
