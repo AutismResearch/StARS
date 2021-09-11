@@ -5,7 +5,7 @@ layout: page
 ---
 <article>
 <p align="center">
-    <img src="../assets/images/StARSLogo.jpg.jpg"
+    <img src="../assets/images/StARSLogo.jpg"
          alt="StARS Logo" align="middle"/>
 </p>
 
