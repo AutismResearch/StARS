@@ -51,7 +51,7 @@ categories-order:
 navigation:
   - {file: "people.md"}
   - {file: "participate.md"}
-  - {file: "research.md"}
+  - {Title: "Levitt Lab"}
   - {file: "resources.md"}
 
 external:                  # see http://fontawesome.com/icons
