@@ -20,12 +20,6 @@ We are researchers in the [Levitt Lab](https://www.chla.org/research/levitt-labo
 {% endfor %}
 </ul>
 
-## Friends & Collaborators
-
-**Collaborators past and present**: include [Ava Irani](http://avairani.net/), [Charles Yang](https://www.ling.upenn.edu/~ycharles/), [Elissa Newport](https://cbpr.georgetown.edu/faculty/elissa_newport), [Richard Aslin](https://haskinslabs.org/people/richard-aslin), [Patricia Reeder](https://www.linkedin.com/in/patricia-anne-reeder/), Alison Austin, [Peter Turkeltaub](https://cbpr.georgetown.edu/faculty/peter_turkeltaub), [Mackenzie Fama](https://www.towson.edu/chp/departments/asld/facultystaff/mfama.html), and [Amy Booth](https://www.vanderbilt.edu/psychological_sciences/bio/amy-booth-). 
-
-**Artists**: [Kate Merrihew](https://curiouserink.com/) created our logo.
-
 ## Join our team
 
 **Undergraduates**: USC undergraduate students interested in working in the lab can email Sahana. We are not accepting new students in Fall 2021. Check back in Spring 2022 for openings. 
