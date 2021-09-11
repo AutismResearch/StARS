@@ -1,6 +1,6 @@
 ---
 title: "Participate"
-permalink: "/Details/"
+permalink: "/Participate/"
 layout: page
 ---
 
