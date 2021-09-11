@@ -57,7 +57,6 @@ navigation:
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:childlanglab@sas.upenn.edu"}
   - {title: Phone, icon: phone, url: "323-209-5081"}
-  - {title: Subscribe, icon: rss, url: "https://https://www.chla.org/research/levitt-laboratory"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
