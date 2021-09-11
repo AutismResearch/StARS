@@ -1,6 +1,5 @@
-title: "The Child Language Lab"
-author: "Blog Author"
-description: "University of Pennsylvania"
+Title: "StARS: Study of Autism Risk in Siblings"
+description: "StARS: Study of Autism Risk in Siblings"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -58,8 +57,8 @@ navigation:
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:childlanglab@sas.upenn.edu"}
-  - {title: Github, icon: github, url: "https://github.com/pennchildlanglab"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Phone, icon: phone, url: "323-209-5081"}
+  - {title: Subscribe, icon: rss, url: "https://https://www.chla.org/research/levitt-laboratory"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
