@@ -53,6 +53,7 @@ navigation:
   - {file: "participate.md"}
   - {url: "https://www.chla.org/research/levitt-laboratory", title: "Levitt Lab"}
   - {file: "CHLAresearch.md"}
+  - {file: "faqs.md"}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:childlanglab@sas.upenn.edu"}
