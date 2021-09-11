@@ -5,6 +5,11 @@ layout: page
 ---
 
 <p align="center">
-    <img src="assets/images/StARSLogo.jpg"
+    <img src="assets/images/StARS_EnglishFlyer.jpg"
+         alt="StARS Logo" width="400" height="400" align="middle"/>
+</p>
+
+<p align="center">
+    <img src="assets/images/StARS_SpanishFlyer.jpg"
          alt="StARS Logo" width="400" height="400" align="middle"/>
 </p>
