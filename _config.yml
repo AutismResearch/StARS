@@ -49,8 +49,8 @@ categories-order:
  - News
 
 navigation:
-  - {file: "participate.md"}
   - {file: "people.md"}
+  - {file: "participate.md"}
   - {file: "research.md"}
   - {file: "resources.md"}
 
