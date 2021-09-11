@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Levitt Lab"
 layout: default
 ---
 
