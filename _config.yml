@@ -51,7 +51,7 @@ categories-order:
 navigation:
   - {file: "people.md"}
   - {file: "participate.md"}
-  - {file: "levittlab.md"}
+  - {url: "https://www.chla.org/research/levitt-laboratory", title: "Levitt Lab"}
   - {file: "CHLAresearch.md"}
 
 external:                  # see http://fontawesome.com/icons
