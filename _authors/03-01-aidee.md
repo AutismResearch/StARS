@@ -1,5 +1,5 @@
 ---
-short_name: Aidee
+short_name: aidee
 name: Aidee Leon Lua
 position: Research Coordinator
 ---
