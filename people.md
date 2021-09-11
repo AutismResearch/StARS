@@ -12,7 +12,7 @@ We are researchers in the [Levitt Lab](https://www.chla.org/research/levitt-labo
 {% for author in site.authors %}
 <li>
         <figure class="figure">
-                <img src='../assets/images/{{ author.short_name }}.png' alt='{{ author.short_name }}' /> 
+                <img src='../assets/images/{{ author.short_name }}.jpg' alt='{{ author.short_name }}' /> 
                 <figcaption><strong><a href="{{ author.url }}">{{ author.name }}</a></strong>
                 <br> {{ author.position }} </figcaption>
         </figure> 
