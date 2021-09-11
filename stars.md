@@ -1,5 +1,5 @@
 ---
-title: "Stars"
+title: "StARS"
 permalink: "/stars/"
 layout: page
 --- 
