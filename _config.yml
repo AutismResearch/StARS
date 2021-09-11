@@ -52,7 +52,7 @@ navigation:
   - {file: "people.md"}
   - {file: "participate.md"}
   - {Title: "Levitt Lab"}
-  - {file: "resources.md"}
+  - {file: "CHLAresearch.md"}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:childlanglab@sas.upenn.edu"}
