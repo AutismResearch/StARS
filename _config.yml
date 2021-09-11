@@ -12,6 +12,13 @@ show_excerpts: false       # show article excerpts on the home page
 show_frame: false          # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 
+# collections
+ collections:
+   authors:
+     output: true
+   resources:
+     output: true
+
 # default layouts
 defaults:
   -
@@ -33,6 +40,15 @@ defaults:
     values:
         layout: "post"
 
+ # categories for authors page
+ categories-order:
+  - Paper
+  - Grant
+  - Talk
+  - Poster
+  - News
+  
+  
 navigation:
   - {file: "people.md"}
   - {file: "participate.md"}
