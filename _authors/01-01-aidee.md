@@ -1,7 +1,7 @@
 ---
 short_name: aidee
 name: Aidee Leon Lua
-studyrole: Research Coordinator
+studyrole:             Research Coordinator             
 position: Research Assistant
 ---
 
