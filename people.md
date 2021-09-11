@@ -10,7 +10,7 @@ We are researchers in the [Levitt Lab](https://www.chla.org/research/levitt-labo
 <ul class="list-unstyled list-inline text-center">
         
         h3 {
-        font-size: 30px%;
+        font-size: 125%%;
       }
 
 {% for author in site.authors %}
