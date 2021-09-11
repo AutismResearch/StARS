@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: "Other Research Studies at CHLA"
 permalink: "/resources/"
 layout: page
 ---
