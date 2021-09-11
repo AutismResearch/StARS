@@ -1,5 +1,5 @@
 ---
-title: "Study Details"
+title: "Participate"
 permalink: "/Details/"
 layout: page
 ---
