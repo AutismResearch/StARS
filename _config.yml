@@ -52,7 +52,7 @@ navigation:
   - {file: "star.md"}
   - {file: "people.md"}
   - {file: "participate.md"}
-  - {title: <a href="https://www.chla.org/research/levitt-laboratory" target="_blank">Levitt Lab</a> }
+  - {<a href="https://www.chla.org/research/levitt-laboratory" target="_blank">Levitt Lab</a> }
   - {file: "CHLAresearch.md"}
   - {file: "faqs.md"}
 
