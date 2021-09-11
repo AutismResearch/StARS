@@ -22,6 +22,3 @@ We are researchers in the [Levitt Lab](https://www.chla.org/research/levitt-labo
 {% endfor %}
 </ul>
 
-## Join our team
-
-**Undergraduates**: USC undergraduate students interested in working in the lab can email us with their CV. We are not accepting new students in Fall 2021. Check back in Spring 2022 for openings. 
