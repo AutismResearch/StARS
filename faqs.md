@@ -66,4 +66,3 @@ layout: default
         </div>
     </div>
 
-<\article>
