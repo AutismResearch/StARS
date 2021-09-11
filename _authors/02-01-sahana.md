@@ -1,5 +1,5 @@
 ---
-short_name: Sahana
+short_name: sahana
 name: Sahana Nagabhushan Kalburgi
 position: PI, Postdoctoral Fellow
 ---
