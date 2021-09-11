@@ -8,12 +8,16 @@ layout: page
 We are researchers in the [Levitt Lab](https://www.chla.org/research/levitt-laboratory) at the Children's Hospital Los Angeles.  
 
 <ul class="list-unstyled list-inline text-center">
+        
+        h3 {
+        font-size: large%;
+      }
 
 {% for author in site.authors %}
 <li>
         <figure class="figure">
                 <img src='../assets/images/{{ author.short_name }}.jpg' alt='{{ author.short_name }}' height="200" width="200"/> 
-                <figcaption><strong><font color="blue"><font-size: "30px">{{ author.name }}</p></font></strong>
+                <figcaption><strong><font color="blue"><h3>{{ author.name }}</p></h3></strong>
                 <br> <strong>{{ author.studyrole }} </strong><br> {{ author.position }} <br> {{ author.bio }} </figcaption>
         </figure> <br>
         
